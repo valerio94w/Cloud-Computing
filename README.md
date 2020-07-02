@@ -4,5 +4,5 @@
 
 ###### Content of this repository:
 
-+ `twitter_stream.py`: the script for
-+ `notebook.ipynb`: the notebook
++ `twitter_stream.py`: the script to generate a kinesis data stream
++ `notebook.ipynb`: the notebook of the work
