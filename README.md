@@ -1,5 +1,5 @@
 # CLC_Project_2020
- CLC Project code
+ The aim of our project is to implement a sentimental analysis of  tweets published during the Covid-19  emergency. We used these data to analyze the sentiment of Twitter’s users throughout this period. At the end we made a live classifications of some tweets concerned Covid-19.
 
 
 ###### Content of this repository:
