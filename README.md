@@ -13,4 +13,4 @@
   + [`results.csv`](https://github.com/ceccaroni1884368/CLC_Project_2020/blob/master/results/results.csv): csv file cointaining the processed tweets and the final classified sentiment
   + [`img`](https://github.com/ceccaroni1884368/CLC_Project_2020/tree/master/results/img): the folder with images of the live (recorded) classifications    
   
- + [`results`](https://github.com/valerio94w/Cloud-Computing_/blob/master/group5_project_report.pdf): the report of the project
+ + [`group5_project_report`](https://github.com/valerio94w/Cloud-Computing_/blob/master/group5_project_report.pdf): the report of the project
